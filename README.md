@@ -33,7 +33,7 @@ Odpowiedź:  Światła dla kierowców robią się żółte a potem czerwone odra
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Aby sterować stanem niskim diodą, trzeba katodę diody podłaczyć do pinu mikrokontrolera, a andoę przez rezystor do +5V.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
