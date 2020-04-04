@@ -13,7 +13,7 @@ Grupa studencka:            WELE18X1N1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  Dioda świeci.
+Odpowiedź:  Dioda świeci. Stan zmienia dopiero po dodaniu funkcji delay - dzięki temu, że teraz zmiana następuje po pół sekundy jesteśmy w stanie to zaobserwować.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
