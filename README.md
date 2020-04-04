@@ -21,7 +21,7 @@ Odpowiedź:  Nie ma znaczenia z uwagi na 1 prawo Kirchhoffa. Ważne aby elementy
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak każda pętla jest wymienna. Ich implementacja bedzie różna i w zależności o przypadku logiki zastosowanie danego typ pętli może być łatwiejsze i szybsze do zrozumienia.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
