@@ -25,11 +25,11 @@ Odpowiedź:  Tak każda pętla jest wymienna. Ich implementacja bedzie różna i
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  brak zadanie w instrukcji
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Dla kierowców niedogodnością moze być sytuacja że po wciśnięciu przycisku dla pieszych w momecie gdy dla kierowcow zapala się czerwone odrazu dla piszych zapala się zielone (może doprowadzić do niebezpiecznej sytuacji). Zmiany ww kierowaniu ruchem za pomocą przycisku dla pieszych odbywa się natychmiastowo i można również doprowadzić do ciągłego zatrzymania ruchu jeśli bedziemy przyciskać przycisk dla pieszych caly czas (potocznie mówiąc spamując). 
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
