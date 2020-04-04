@@ -14,7 +14,7 @@ Grupa studencka:            WELE18X1N1
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
 Odpowiedź:  Wdług instrukcji podanej przez prowadzących (i kodu programu) dioda powinna migać (Zmieniamy stan podawanego sygnału z HIGH na LOW), jednak świeci cały czas. Dlaczego?
-            ponieważ program wykonywany jest w nieskończonej pętli bez przerw pomiędzy wykonywanymi funkcjami - ludzkie oko nie jest w stanie zauważyć tak szybkiej zmiany (mikrokontroler arduino uno pracuje z czestotliwością 16Mhz)
+            ponieważ program wykonywany jest w nieskończonej pętli bez przerw pomiędzy wykonywanymi funkcjami - ludzkie oko nie jest w stanie zauważyć tak szybkiej zmiany (mikrokontroler arduino uno pracuje z czestotliwością 16Mhz).
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
