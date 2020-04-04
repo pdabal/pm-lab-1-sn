@@ -13,7 +13,7 @@ Grupa studencka:            WELE18X1N1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Efektem programu jest migocząca dioda, jednak instrukcje włączania i gaszenia diody następują po sobie, nie ma opóźnień. Ludzkie oko nie widzi tak szybkich zmian, wydaje nam się że dioda świeci cały czas
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
