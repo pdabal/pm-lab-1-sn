@@ -17,7 +17,7 @@ Odpowiedź:  Wbudowana dioda na płytce się załącza, nie gaśnie ponieważ in
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Kolejność podłączenia nie ma znaczenia, ponieważ w połączeniu szeregowym przez elementy w jednej gałęzi płynie jednakowy prąd.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
