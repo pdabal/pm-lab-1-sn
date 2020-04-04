@@ -38,7 +38,7 @@ Odpowiedź:  Tak. Musimy zmienić podłaczenie diod do płytki. Anody do +5V , k
 # Zadania rozszerzajace
 ## Zadanie 3-1:
 Pytanie:    *Określić wady i zalety operowania na rejestrach mikrokontrolera.*  
-Odpowiedź:  ...
+Odpowiedź:  Zaleta to szybkość wykonywania operacji względem funkcji. Wadą jest zaimplementowanie kodu programu tylko pod konkretną architekture procesora. Skomplikowane operacje jak operowanie na rejestrach jest trudne do wdrożenia się / zapoznanie się programisty w nowy kod.
 
 ## Zadanie 3-2:
 Pytanie:    *Jaka jest treść nadawnaego tekstu? Proszę zapisać postać jawną i zakodowaną.*  
