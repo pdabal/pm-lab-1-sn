@@ -6,9 +6,9 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
-Grupa studencka:            WELE18X1N1
+Imię i nazwisko studenta:   Hubert Zbikowski  
+Numer albumu:               72735 
+Grupa studencka:            WEL18EX1N1
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
