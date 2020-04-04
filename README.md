@@ -6,22 +6,22 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
+Imię i nazwisko studenta:   Andrzej Szamowski  
+Numer albumu:               72728  
 Grupa studencka:            WELE18X1N1
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Dioda świeci. Stan zmienia dopiero po dodaniu funkcji delay - dzięki temu, że teraz zmiana następuje po pół sekundy jesteśmy w stanie to zaobserwować.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie zaobserwowano różnicy.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Pętle są wymienne, ale zmiana pętli for na np. pętle while wymuszała by zmianę składni.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
@@ -29,7 +29,7 @@ Odpowiedź:  ...
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Wciśnięcie przycisku od razu zmienia światło na żółte, przez co zielone dla kierowców może się palić tylko przez bardzo krótki czas.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
