@@ -17,7 +17,7 @@ Odpowiedź:  Bardzo szybkie wyłączanie i włączanie wbudowanej diody led. Ze 
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  Nie ma znaczenia z uwagi na 1 prawo Kirchhoffa. Ważne aby elementy takie jak np dioda LED o zachowaniu odpowiedniej biegunowości przy podłączeniu.
+Odpowiedź:  Nie ma znaczenia z uwagi na 1 prawo Kirchhoffa. Ważne aby elementy takie jak np dioda LED o miały zachowane odpowiednie biegunowości przy podłączeniu.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
@@ -33,7 +33,7 @@ Odpowiedź:  Dla kierowców niedogodnością moze być sytuacja że po wciśnię
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak. Musimy zmienić podłaczenie diod do płytki. Anody do +5V , katody do wyjść IO ustawiając stan niski.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
