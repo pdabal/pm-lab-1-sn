@@ -21,7 +21,7 @@ Odpowiedź:  Kolejność podłączenia nie ma znaczenia, ponieważ w połączeni
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie w każdym przypadku pętle są zamienne, w obecny nie można by zastosować pętli While.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
