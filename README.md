@@ -38,7 +38,7 @@ Odpowiedź:  Przyciśniecie przycisku przez pieszego powoduje zatrzymanie ruchu.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Możliwe. Wtedy musimy podłączyć diodę zamiast do GND do innego wyjścia sterujacego na którym ustawimy stan HIGH.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
