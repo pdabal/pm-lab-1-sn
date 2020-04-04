@@ -6,8 +6,8 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
+Imię i nazwisko studenta:   Damian Kaczor 
+Numer albumu:               72699
 Grupa studencka:            WELE18X1N1
 
 # Pytania do zadań z instrukcji
