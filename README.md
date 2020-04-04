@@ -33,7 +33,8 @@ Odpowiedź:  ...
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Przyciśniecie przycisku przez pieszego powoduje zatrzymanie ruchu. W przypadku gdy dla samochdów zmienia się światło z Czerwonego na Zielone pieszy możne przełączyć
+            światła znowu na czerwone - przy dużym natężeniu ruchu pieszych ruch samochodów byłby zablokowany.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
