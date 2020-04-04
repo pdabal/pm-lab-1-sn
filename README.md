@@ -33,7 +33,7 @@ Odpowiedź:  Naciśnięcie przycisku przyspieszenia zmiany świateł tuż po zmi
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak, jest to możliwe. W funkcji ChangeLed należy podmienić stany na przeciwne.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
