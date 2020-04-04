@@ -42,7 +42,7 @@ Odpowiedź:  Zaleta to szybkość wykonywania operacji względem funkcji. Wadą 
 
 ## Zadanie 3-2:
 Pytanie:    *Jaka jest treść nadawnaego tekstu? Proszę zapisać postać jawną i zakodowaną.*  
-Odpowiedź:  ...
+Odpowiedź:  Brak tekstu, dodano tylko kod wykonujący zadanie 3.2
 
 ## Zadanie 3-3:
 Pytanie:    *Kiedy programowe generowanie sygnału PWM ma zastosowanie i jakie pociąga to za sobą konsekwencje.*  
