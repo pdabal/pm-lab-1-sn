@@ -7,7 +7,7 @@ Data:   03.04.2020 r.
 
 # Informacje o studencie
 Imię i nazwisko studenta:   Michał Matuszewski 
-Numer albumu:               00000  
+Numer albumu:               72709  
 Grupa studencka:            WELE18X1N1
 
 # Pytania do zadań z instrukcji
