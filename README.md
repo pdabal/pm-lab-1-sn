@@ -29,7 +29,7 @@ Odpowiedź:  ...
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Wciśnięcie przycisku od razu zmienia światło na żółte, przez co zielone dla kierowców może się palić tylko przez bardzo krótki czas.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
