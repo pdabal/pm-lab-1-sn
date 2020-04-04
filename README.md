@@ -33,7 +33,7 @@ Odpowiedź:  Szybkie właczenie światła dla pieszych podczas zmiany dla kierow
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak, możliwe jest włączanie diód stanem niskim. 
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
