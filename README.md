@@ -6,22 +6,22 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
+Imię i nazwisko studenta:   Tomasz Mikołajczyk
+Numer albumu:               72711  
 Grupa studencka:            WELE18X1N1
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Efektem programu jest migocząca dioda, jednak instrukcje włączania i gaszenia diody następują po sobie, nie ma opóźnień. Ludzkie oko nie widzi tak szybkich zmian, wydaje nam się że dioda świeci cały czas.
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Można zamienić kolejność elementów, ale trzeba pamiętać o polaryzacji diody - katoda do mniejszego potencjału.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Można zmienić rodzaj pętli, tylko wtedy na przykład przy zamianie for na while argumenty i=1 oraz i++ musimy zawrzeć w instrukacjach pętli while. Przy zamianie while na for pierwszy oraz trzeci argument zostawiamy pusty, a argument z pętli while wrzucamy jako drugi argument w pętli for.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
@@ -29,11 +29,11 @@ Odpowiedź:  ...
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Światła dla kierowców robią się żółte a potem czerwone odrazu po naciśnięciu przycisku. Oznaczać że kiedy tylko światła kierowców zrobią się zielone i piesi nacisną przycisk to z powrotem będą czwerwone.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Aby sterować stanem niskim diodą, trzeba katodę diody podłaczyć do pinu mikrokontrolera, a andoę przez rezystor do +5V.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
