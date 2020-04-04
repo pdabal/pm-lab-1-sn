@@ -13,7 +13,7 @@ Grupa studencka:            WELE18X1N1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Bardzo szybkie wyłączanie i włączanie wbudowanej diody led. Ze względu na taktowanie procesora Atmega328p 16Mhz (16 milionów cykli zegara, drgań na sekundę) wykonywane operacje w funkcji loop() takie jak digitalWrite(LED_BUILTIN, HIGH) są wykonane przez procesor bardzo szybko w porównaniu do reakcja oka ludzkiego, które nie zauwazy momentu wygaśniecie diody realizowane przez funkcje digitalWrite(LED_BUILTIN, LOW).
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
