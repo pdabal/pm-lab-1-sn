@@ -17,7 +17,7 @@ Odpowiedź:  Bardzo szybkie wyłączanie i włączanie wbudowanej diody led. Ze 
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie ma znaczenia z uwagi na 1 prawo Kirchhoffa. Ważne aby elementy takie jak np dioda LED o zachowaniu odpowiedniej biegunowości przy podłączeniu.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
