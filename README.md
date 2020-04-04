@@ -29,7 +29,7 @@ Odpowiedź:  ...
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Naciśnięcie przycisku przyspieszenia zmiany świateł tuż po zmianie świateł dla kierowców z czerwonego na zielony spowoduje ponowne załączenie się świateł czerwonych. Pieszy w ten sposób może sprawić, że samochody nigdy nie pojadą.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
