@@ -29,7 +29,7 @@ Odpowiedź:  ...
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Światła dla kierowców robią się żółte a potem czerwone odrazu po naciśnięciu przycisku. Oznaczać że kiedy tylko światła kierowców zrobią się zielone i piesi nacisną przycisk to z powrotem będą czwerwone.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
