@@ -6,7 +6,7 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
+Imię i nazwisko studenta:   Imię Nazwisko Nieznane 
 Numer albumu:               00000  
 Grupa studencka:            WELE18X1N1
 
