@@ -1,13 +1,13 @@
 # Parametry projektu
 Nazwa:  pm-lab-1-sn  
-Autor:  Paweł Dąbal (pawel.dabal@wat.edu.pl)  
+Autor:  Łukasz Drozd (lukasz.drozd1@student.wat.edu.pl)  
 Opis:   Projekt bazowy repozytorium na pierwsze spotkanie laboratoryjne z przedmiotu *Programowanie mikrokontrolerów*.  
 Wersja: v1.0  
-Data:   03.04.2020 r.  
+Data:   04.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
+Imię i nazwisko studenta:   Łukasz Drozd
+Numer albumu:               53371 
 Grupa studencka:            WELE18X1N1
 
 # Pytania do zadań z instrukcji
