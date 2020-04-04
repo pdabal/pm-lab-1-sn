@@ -2,14 +2,37 @@
 
 #define LED_RED 10
 
+#define M_KROPKA_T 200
+#define M_KRESKA_T 3* M_KROPKA_T
+#define M_PAUZA_T  3* M_KROPKA_T
+#define M_SPACJA_T 7* M_KROPKA_T
+
 void setup() {
   pinMode(LED_RED, OUTPUT);
   digitalWrite(LED_RED, LOW);
 }
 
 void loop() {
-  digitalWrite(LED_RED, HIGH);
-  delay(500);
-  digitalWrite(LED_RED, LOW);
-  delay(500);
+  //ZNAK S
+  for(int i=0;i<3;i++){
+    digitalWrite(LED_RED, HIGH);
+    delay(M_KROPKA_T);
+    digitalWrite(LED_RED, LOW);
+    delay(M_PAUZA_T);
+  }
+  //ZNAK O
+  for(int i=0;i<3;i++){
+    digitalWrite(LED_RED, HIGH);
+    delay(M_KRESKA_T);
+    digitalWrite(LED_RED, LOW);
+    delay(M_PAUZA_T);
+  }
+  //ZNAK S
+  for(int i=0;i<3;i++){
+    digitalWrite(LED_RED, HIGH);
+    delay(M_KROPKA_T);
+    digitalWrite(LED_RED, LOW);
+    delay(M_PAUZA_T);
+  }
+  delay(M_SPACJA_T);
 }

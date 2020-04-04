@@ -21,7 +21,7 @@ Odpowiedź:  Można zamienić kolejność elementów, ale trzeba pamiętać o po
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Można zmienić rodzaj pętli, tylko wtedy na przykład przy zamianie for na while argumenty i=1 oraz i++ musimy zawrzeć w instrukacjach pętli while. Przy zamianie while na for pierwszy oraz trzeci argument zostawiamy pusty, a argument z pętli while wrzucamy jako drugi argument w pętli for.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
