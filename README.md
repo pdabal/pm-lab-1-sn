@@ -18,7 +18,9 @@ Odpowiedź:  Wdług instrukcji podanej przez prowadzących (i kodu programu) dio
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Kolejność połączenia diody i rezystora nie ma znaczenia. W przypadku tego zdania są elementami połączonymi szeregowo - z Teorii obwodów oraz prawa Ohma wiemy,
+            że przez elementy połączone szeregowo przepływa ten sam prąd (odkłada się rózne napięcie zależne w tym przypadku od rezystancji elementu). Przy elementach wrażliwych
+            używamy rezystora jako element na którym odłoży się część napięcia (ograniczy nam napięcie) - dzięki temu nie "przepalimy diody".
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
